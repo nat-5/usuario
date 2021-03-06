@@ -1,0 +1,58 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family:sans-serif;   
+}
+.section _2 {
+    width: 100%;
+    width: auto;
+}
+.formulario{
+    max-width: 1000px;
+    height: 400px;
+    background-image: url(../img/imagen1.jpg);
+    background-size: cover;    
+    margin: auto;
+    display: flex;
+    flex-direction:column;
+    padding: 80px;
+    box-sizing: border-box;
+    background-color:white;
+   
+}    .formulario input {
+    width: 300px;
+    height: 40px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding-left:10px;
+    box-sizing: border-box;
+    outline:  none;
+}
+.tituloform {
+    font-size: 30px;
+}
+.ms _form {
+    font-size: 15px;
+    margin-top: 20px;   
+}
+.cuadro_1{
+    background: none;
+    color:inherit;
+    border:none;
+    font:inherit;
+    cursor:pointer;
+    outline: inherit;
+    width: 130px;
+    height: 50px;
+    background-color: darkturquoise;
+}
+.cuadro_2{
+     background: none;
+    color:inherit;
+    border:none;
+    font:inherit;
+    cursor:pointer;
+    outline: inherit;
+    width: 137px;
+    height: 50px;
+    background-color:lawngreen;
